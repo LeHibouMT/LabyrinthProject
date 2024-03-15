@@ -1,0 +1,10 @@
+﻿  G2DColor.cpp
+  G2DEvent.cpp
+  Eleve.cpp
+C:\Users\taing\Desktop\School\3034-C++\Labyrinthe\G2D\Eleve.cpp(119,9): warning C4804: '<=' : utilisation risquée du type 'bool' dans l'opération
+C:\Users\taing\Desktop\School\3034-C++\Labyrinthe\G2D\Eleve.cpp(119,25): warning C4804: '<=' : utilisation risquée du type 'bool' dans l'opération
+  G2DX.cpp
+  G2DPPM.cpp
+  V2.cpp
+  Génération de code en cours...
+  G2D.vcxproj -> C:\Users\taing\Desktop\School\3034-C++\Labyrinthe\G2D\Debug\G2D.exe
